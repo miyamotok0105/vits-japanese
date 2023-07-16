@@ -1,5 +1,6 @@
 # VITS for Japanese
 
+
 *VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech*
 
 *Several recent end-to-end text-to-speech (TTS) models enabling single-stage training and parallel sampling have been proposed, but their sample quality does not match that of two-stage TTS systems. In the repository, I will introduce a VITS model for Japanese on pytorch version 2.0.0 that customed from [VITS model](https://github.com/jaywalnut310/vits).*
